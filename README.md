@@ -44,7 +44,7 @@ carmen-portfolio/
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/carmen-portfolio.git
+git clone https://github.com/carroyoro/carmen-portfolio.git
 cd carmen-portfolio
 
 # Instala dependencias
@@ -52,3 +52,11 @@ npm install
 
 # Inicia el servidor de desarrollo
 npm run dev
+
+
+## 📚 Documentación adicional
+
+- [Estructura lógica del proyecto](./docs/estructura-logica.md)
+- [Kanban y fases](./docs/kanban-tareas.md)
+- [Organigrama visual](./docs/organigrama.png)
+- [Chuleta de Git](./scripts/git-cheatsheet.md)
